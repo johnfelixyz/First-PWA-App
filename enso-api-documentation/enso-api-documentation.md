@@ -4,7 +4,7 @@ description: Here we are planning to capture the APIs in a detailed way
 
 # ENSO API Documentation
 
-{% api-method method="post" host="https://ENSO.api/com" path="/cancel\_dag\_execution" %}
+{% api-method method="post" host="Https://enso-background-api.com" path="/cancel\_dag\_execution" %}
 {% api-method-summary %}
 Get Cakes
 {% endapi-method-summary %}
